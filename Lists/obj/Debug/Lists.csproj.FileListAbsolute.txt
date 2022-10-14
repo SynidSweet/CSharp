@@ -1,0 +1,6 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Lists\bin\Debug\Lists.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Lists\bin\Debug\Lists.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Lists\bin\Debug\Lists.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Lists\obj\Debug\Lists.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Lists\obj\Debug\Lists.pdb

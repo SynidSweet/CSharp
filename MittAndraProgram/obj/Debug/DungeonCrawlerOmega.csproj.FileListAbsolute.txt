@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\bin\Debug\MittAndraProgram.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\bin\Debug\MittAndraProgram.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\bin\Debug\MittAndraProgram.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\obj\Debug\DungeonCrawlerOmega.csprojResolveAssemblyReference.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\obj\Debug\DungeonCrawlerOmega.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\obj\Debug\MittAndraProgram.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittAndraProgram\obj\Debug\MittAndraProgram.pdb

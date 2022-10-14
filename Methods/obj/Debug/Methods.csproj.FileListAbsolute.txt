@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\bin\Debug\Methods.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\bin\Debug\Methods.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\bin\Debug\Methods.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\obj\Debug\Methods.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\bin\Debug\Loops.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\bin\Debug\Loops.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\bin\Debug\Loops.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\obj\Debug\Loops.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\obj\Debug\Loops.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
