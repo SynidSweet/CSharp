@@ -1,0 +1,9 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\bin\Debug\MittFönster2.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\bin\Debug\MittFönster2.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\bin\Debug\MittFönster2.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\obj\Debug\MittFönster2.Form1.resources
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\obj\Debug\MittFönster2.Properties.Resources.resources
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\obj\Debug\MittFönster2.csproj.GenerateResource.Cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\obj\Debug\MittFönster2.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\obj\Debug\MittFönster2.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFönster2\obj\Debug\MittFönster2.pdb

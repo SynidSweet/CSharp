@@ -1,0 +1,10 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\bin\Debug\MittFörstaFönster.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\bin\Debug\MittFörstaFönster.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\bin\Debug\MittFörstaFönster.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.csprojResolveAssemblyReference.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.Form1.resources
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.Properties.Resources.resources
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.csproj.GenerateResource.Cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittFörstaFönster\obj\Debug\MittFörstaFönster.pdb
