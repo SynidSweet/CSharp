@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\bin\Debug\String.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\bin\Debug\String.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\bin\Debug\String.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\obj\Debug\String.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\String\obj\Debug\String.pdb

@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\bin\Debug\MittTredje.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\bin\Debug\MittTredje.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\bin\Debug\MittTredje.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\obj\Debug\MittTredje.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\obj\Debug\MittTredje.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\obj\Debug\MittTredje.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\MittTredje\obj\Debug\MittTredje.csprojResolveAssemblyReference.cache
