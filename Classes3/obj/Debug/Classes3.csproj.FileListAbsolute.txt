@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\bin\Debug\Classes3.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\bin\Debug\Classes3.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\bin\Debug\Classes3.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\obj\Debug\Classes3.csprojResolveAssemblyReference.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\obj\Debug\Classes3.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\obj\Debug\Classes3.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Classes3\obj\Debug\Classes3.pdb

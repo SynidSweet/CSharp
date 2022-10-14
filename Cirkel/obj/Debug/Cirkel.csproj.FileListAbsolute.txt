@@ -1,0 +1,7 @@
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\bin\Debug\Cirkel.exe.config
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\bin\Debug\Cirkel.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\bin\Debug\Cirkel.pdb
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\obj\Debug\Cirkel.csprojResolveAssemblyReference.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\obj\Debug\Cirkel.csproj.CoreCompileInputs.cache
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\obj\Debug\Cirkel.exe
+C:\Users\Wanda\Documents\Visual Studio 2017\Projects\HelloWorld\Cirkel\obj\Debug\Cirkel.pdb
